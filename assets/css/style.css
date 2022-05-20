@@ -16,7 +16,7 @@
   body {
       background-color: rgba(0, 0, 0, 1);
       color: rgba(255, 255, 255, 1);
-      font-family: 'Courier New', Courier, monospace;    
+      font-family: consolas,'Courier New', Courier, monospace;    
     }
 
   /* HEADER / NAV BAR STYLE START */
@@ -251,3 +251,5 @@
     }
   
     /*End of Footer Section */
+
+    
